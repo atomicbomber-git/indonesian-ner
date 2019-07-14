@@ -1,0 +1,2 @@
+DATA TRAINING
+https://github.com/yusufsyaifudin/indonesia-ner
