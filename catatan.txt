@@ -1,2 +1,3 @@
 DATA TRAINING
+https://github.com/riochr17/Named-Entity-Tagger-ID/blob/master/data/data_korpus_ne.txt
 https://github.com/yusufsyaifudin/indonesia-ner
